@@ -1,1 +1,0 @@
-These files contain IDs of jobs in test periods for each window. They were produced using scripts in the parent directory.
